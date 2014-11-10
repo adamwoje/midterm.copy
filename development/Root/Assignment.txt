@@ -1,7 +1,0 @@
-Using nested rules, create a template for buttons.  Create at least 3 variants of buttons, such as color, size, or whatever, and probably all of the above.
-
-Continue to work on your designs, and expand your sass files using your expanded knowledge of mixins and programming.
-
-DELIVER TO TITAN:
-20141001_YOURNAME
-	weblog.webloc
